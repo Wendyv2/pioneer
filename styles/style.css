@@ -241,7 +241,6 @@ section {
   background-repeat: no-repeat;
   width: 6px;
   height: 11px;
-  padding-left: 8px;
 }
 
 .news__title {
@@ -252,10 +251,7 @@ section {
   display: flex;
   flex-flow: column nowrap;
   justify-content: space-between;
-  padding-top: 9px;
-  padding-left: 16px;
-  padding-right: 16px;
-  padding-bottom: 25px;
+  padding: 9px 16px 25px;
   min-height: 221px;
 }
 
